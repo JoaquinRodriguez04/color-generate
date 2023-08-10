@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-generate/static/css/main.43ff935e.css",
+    "main.js": "/color-generate/static/js/main.23f83874.js",
+    "index.html": "/color-generate/index.html",
+    "main.43ff935e.css.map": "/color-generate/static/css/main.43ff935e.css.map",
+    "main.23f83874.js.map": "/color-generate/static/js/main.23f83874.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ff935e.css",
+    "static/js/main.23f83874.js"
+  ]
+}
