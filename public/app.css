@@ -1,0 +1,30 @@
+.single-card{
+    padding: 4em 0;
+    width: 8vh;
+    height: 20vh;
+    position: relative;
+    transition: width, 200ms ease;
+}
+
+.single-card:hover{
+    width: 15vh;
+}
+
+.content-p{
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: transparent;
+}
+
+.single-card:hover .content-card .content-p{
+    position: absolute;
+    padding: 1em;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #eeefe9;
+    border-radius: 1em;
+    color: #111;
+}
+
+ 

@@ -1,0 +1,31 @@
+.form-container{
+    background-color: #8ce9c8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em 0;
+}
+
+.form-flex{
+    display: flex;
+    gap: .5em;
+    margin: 1em 0 .8em;
+}
+
+input{
+    padding: .40em .65em;
+    border-radius: 100vh;
+    outline: none;
+    border: 1px solid #111;
+    background-color: #111;
+    color: #d3d3d4;
+}
+
+input:hover{
+    cursor: pointer;
+    background-color: #2e2e2e;
+}
+
+.input-txt:focus{
+    background-color: #2e2e2e;
+}

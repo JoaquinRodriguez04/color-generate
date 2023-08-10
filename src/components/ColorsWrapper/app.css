@@ -1,0 +1,27 @@
+::-webkit-scrollbar {
+    background-color: #a0aaa7;
+    border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #8ce9c8;
+    border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #498671;
+    cursor: pointer;
+}
+
+.colors-wrapper{
+    display: flex;
+    background-color: #f9f9ff;
+    margin: 5em 2em 0;
+    border-radius: 1em;
+    overflow: scroll auto;
+}
+
+.colors-flex{
+    display: flex;
+    margin: 1.5em 3em;
+}
